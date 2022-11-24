@@ -8,7 +8,7 @@
 
 Here're some of the project's best features:
 
-*   The projects runs on Cuda GPU
+*   The project runs on Cuda GPU
 *   Usage of graphs for deeper understanding
 
 <h2>🛠️ Installation Steps:</h2>
